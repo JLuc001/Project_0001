@@ -1,0 +1,11 @@
+C:\Users\Knowhow\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+C:\Users\Knowhow\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\Knowhow\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\Knowhow\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\Knowhow\Desktop\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\Knowhow\Desktop\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\Knowhow\Desktop\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\Knowhow\Desktop\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\Knowhow\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\Knowhow\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\Knowhow\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
